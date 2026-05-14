@@ -24,6 +24,7 @@ Developed by: Ajithkumar J
 RegisterNumber: 212225040015 
 */
 ```
+~~~
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -57,7 +58,7 @@ plt.show()
 [ 5.22972973 11.86824324  1.91047297  7.44256757  8.54898649  9.65540541
   0.80405405  4.12331081  7.44256757 12.97466216]
 <img width="543" height="413" alt="image" src="https://github.com/user-attachments/assets/3b3d781c-9320-4c3a-8e2b-3feec1c242c8" />
-
+~~~
 
 
 ## Result:
