@@ -49,16 +49,17 @@ print(Y_predicted)
 plt.scatter(X,Y)
 plt.plot(X,Y_predicted,color="red")
 plt.show()
-
+~~~
 ## Output:
 
+~~~
 8,2,11,6,5,4,12,9,6,1
 3,10,3,6,8,12,1,4,9,14
 -1.1064189189189189 14.08108108108108
 [ 5.22972973 11.86824324  1.91047297  7.44256757  8.54898649  9.65540541
   0.80405405  4.12331081  7.44256757 12.97466216]
-<img width="543" height="413" alt="image" src="https://github.com/user-attachments/assets/3b3d781c-9320-4c3a-8e2b-3feec1c242c8" />
 ~~~
+<img width="543" height="413" alt="image" src="https://github.com/user-attachments/assets/3b3d781c-9320-4c3a-8e2b-3feec1c242c8" />
 
 
 ## Result:
